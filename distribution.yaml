@@ -1,0 +1,8 @@
+name: novel-reader
+version: 0.1.0
+description: "面向小说角色视觉设计的长上下文阅读 Agent"
+hermes_requires: ">=0.12.0"
+distribution_owned:
+  - distribution.yaml
+  - SOUL.md
+  - skills/novel-reader/
