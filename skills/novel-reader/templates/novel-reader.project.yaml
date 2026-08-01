@@ -1,0 +1,17 @@
+schema_version: 1
+
+source_roots:
+  - source/
+
+character_facts_roots:
+  - canonical/characters/
+
+handoff_root: visual-design/
+
+current_target:
+  character_id: C-001
+  character_name: ""
+  period: ""
+
+# 仅在正文使用不同称呼且普通检索找不到时填写。
+aliases: []
